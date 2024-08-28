@@ -1,0 +1,8 @@
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+aws.region=
+AWS_ACCESS_KEY_ID=
+AWS_SECRET_ACCESS_KEY=
+AWS.BUCKET.NAME=
+
